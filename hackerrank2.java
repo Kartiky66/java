@@ -10,7 +10,10 @@ import java.util.*;
                 System.out.println(b);
                 System.out.println(c);
             }
+            catch(Exception shashank)
+            {
+                System.out.println(shashank);
+            }
         }
     }
     
-
